@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavolin&show_icons=true&locale=en" alt="pavolin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavolin&theme=default" alt="pavolin" /></p>
+
+![snake gif](https://github.com/Pavolin/Pavolin/blob/output/github-contribution-grid-snake.svg)
